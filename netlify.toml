@@ -3,7 +3,7 @@
   publish = "public"
 [template.environment]
   FAUNA_SECRET_KEY = "sGFWTEhEFh8VRCQXr2mxSktI"
-  TELEGRAM_BOT_TOKEN = "1009886009:AAGB4GpfbG8xTCgfnUmAD9TI_qgub56VGkw"
+  TELEGRAM_BOT_TOKEN = "991047353:AAE9j4s2G9R2koeIagVOEsPz88Vqq_4EKiY"
 [[redirects]]
   from = "/api/*"
   to = "/.netlify/functions/:splat"
