@@ -1,6 +1,6 @@
 [build]
   functions = "functions"
-  publish = "public"
+  publish = "build"
 
   command = "npm run build"
 [template.environment]
